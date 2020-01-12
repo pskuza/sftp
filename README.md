@@ -6,8 +6,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
-- [`debian-stretch`, `debian`, `latest` (*Dockerfile*)](https://github.com/pskuza/sftp/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/pskuza/sftp.svg)](http://microbadger.com/images/pskuza/sftp "Get your own image badge on microbadger.com")
-- [`debian-jessie` (*Dockerfile*)](https://github.com/pskuza/sftp/blob/debian-jessie/Dockerfile) [![](https://images.microbadger.com/badges/image/pskuza/sftp:debian-jessie.svg)](http://microbadger.com/images/pskuza/sftp:debian-jessie "Get your own image badge on microbadger.com")
+- [`debian-buster`, `debian`, `latest` (*Dockerfile*)](https://github.com/pskuza/sftp/blob/debian-buster/Dockerfile) [![](https://images.microbadger.com/badges/image/pskuza/sftp.svg)](http://microbadger.com/images/pskuza/sftp "Get your own image badge on microbadger.com")
 - [`alpine` (*Dockerfile*)](https://github.com/pskuza/sftp/blob/alpine/Dockerfile) [![](https://images.microbadger.com/badges/image/pskuza/sftp:alpine.svg)](http://microbadger.com/images/pskuza/sftp:alpine "Get your own image badge on microbadger.com")
 
 # Securely share your files
