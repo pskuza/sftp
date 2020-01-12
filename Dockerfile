@@ -1,6 +1,6 @@
 FROM debian:buster-slim
 
-MAINTAINER Adrian Dvergsdal [atmoz.net]
+MAINTAINER pskuza
 
 # Steps done in one RUN layer:
 # - Install packages
